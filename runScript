@@ -1,0 +1,5 @@
+#!/bin/bash
+# Compile pi.c, run it and exit
+make
+./pi
+exit 0
